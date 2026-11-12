@@ -1,0 +1,4 @@
+pymupdf
+pypdf
+reportlab
+faster-whisper  # opcional: só para transcrever áudio
